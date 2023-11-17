@@ -4,6 +4,7 @@ def func1():
 	return 1
 
 def func2():
+	print('Salut!')
 	return 2
 
 def func3():
